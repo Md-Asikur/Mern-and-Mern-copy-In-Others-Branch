@@ -1,0 +1,14 @@
+nav{
+    background-color: rgb(42, 41, 41);
+    height: 100px;
+}
+ nav a{
+    color: azure;
+    font-size: 1.5rem;
+    padding: 20px;
+    text-decoration: none;
+ 
+}
+nav a.active{
+    color: brown;
+}
