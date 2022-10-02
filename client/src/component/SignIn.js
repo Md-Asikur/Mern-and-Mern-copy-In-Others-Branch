@@ -51,7 +51,7 @@ const SignIn = () => {
     } else {
        window.alert("Successfully Registretion")
       console.log("Successfully Registretion")
-      navigate("/logi")
+      navigate("/")
     }
   }
   return (

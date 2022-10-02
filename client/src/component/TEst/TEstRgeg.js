@@ -121,7 +121,7 @@ function Appss() {
               onChange={handleChange}
             />
           </div>
-          <p>{formErrors.name}</p>
+         
           <div className="field">
             <label>Email</label>
             <input
